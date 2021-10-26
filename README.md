@@ -57,8 +57,4 @@
 
 
 ![Snake animation](https://github.com/devhikary/devhikary/blob/output/github-contribution-grid-snake.svg)
-<p align="center">
-    <a href="https://br.linkedin.com/in/karina-natsu-69964a186" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</p>
+
